@@ -3,3 +3,4 @@ for (let k = 1; k <= indice; k++) {
     soma += k;
 }
 console.log(soma)
+// O valor é igual a 91.
